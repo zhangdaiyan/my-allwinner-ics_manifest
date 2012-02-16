@@ -31,6 +31,8 @@
   <project path="device/softwinner/crane-MID9742-sc3052" name="device/softwinner/crane-MID9742-sc3052" />
   <project path="device/softwinner/crane-evb-v13" name="device/softwinner/crane-evb-v13" /> 
   <project path="device/softwinner/crane-evb" name="device/softwinner/crane-evb" /> 
+  <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" /> 
+  <project path="device/softwinner/nuclear-evb" name="device/softwinner/nuclear-evb" /> 
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />

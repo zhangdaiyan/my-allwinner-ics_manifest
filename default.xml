@@ -29,6 +29,7 @@
   <project path="device/softwinner/common" name="device/softwinner/common" />
   <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
   <project path="device/softwinner/crane-MID9742-sc3052" name="device/softwinner/crane-MID9742-sc3052" />
+  <project path="device/softwinner/crane-evb-v12r" name="device/softwinner/crane-evb-v12r" />
   <project path="device/softwinner/crane-evb-v13" name="device/softwinner/crane-evb-v13" /> 
   <project path="device/softwinner/crane-evb" name="device/softwinner/crane-evb" /> 
   <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" /> 

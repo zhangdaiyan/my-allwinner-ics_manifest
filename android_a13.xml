@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="exdroid"
-           fetch="../git_repo/android_a13" />
+           fetch="ssh://JuMei@61.143.53.198/git_repo/android_a13" />
   <default revision="ics-exdroid"
            remote="exdroid"
            sync-j="4" />

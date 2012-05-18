@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="lichee"
-           fetch="../git_repo/lichee" />
+           fetch="ssh://JuMei@61.143.53.198/git_repo/lichee" />
   <default revision="lichee-dev"
            remote="lichee"
            sync-j="4" />

@@ -3,7 +3,7 @@
 
   <remote  name="exdroid"
            fetch="ssh://JuMei@61.143.53.198/git_repo" />
-  <default revision="ics-exdroid"
+  <default revision="refs/tags/exdroid4.0.3r1-a10-v1.2"
            remote="exdroid"
            sync-j="4" />
 

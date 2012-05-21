@@ -3,7 +3,7 @@
 
   <remote  name="lichee"
            fetch="ssh://JuMei@61.143.53.198/git_repo/lichee" />
-  <default revision="lichee-dev"
+  <default revision="refs/tags/exdroid4.0.3r1-a10-v1.2"
            remote="lichee"
            sync-j="4" />
 

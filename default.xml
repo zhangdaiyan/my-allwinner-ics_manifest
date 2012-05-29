@@ -3,6 +3,8 @@
 
   <remote  name="exdroid"
            fetch="ssh://JuMei@61.143.53.198/git_repo" />
+  <remote  name="github"
+           fetch="git://github.com/zhangdaiyan" />
   <default revision="refs/tags/exdroid4.0.3r1-a10-v1.2"
            remote="exdroid"
            sync-j="4" />
@@ -26,7 +28,7 @@
   <project path="device/samsung/maguro" name="device/samsung/maguro" />
   <project path="device/samsung/tuna" name="device/samsung/tuna" />
   <project path="device/ti/panda" name="device/ti/panda" />
-  <project path="device/softwinner/common" name="device/softwinner/common" />
+  <project path="device/softwinner/common" name="my-allwinner-ics_device_softwinner_common" remote="github" revision="DEVELMENT"/>
   <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
   <project path="device/softwinner/crane-MID9742-sc3052" name="device/softwinner/crane-MID9742-sc3052" />
   <project path="device/softwinner/crane-evb-v12r" name="device/softwinner/crane-evb-v12r" />
